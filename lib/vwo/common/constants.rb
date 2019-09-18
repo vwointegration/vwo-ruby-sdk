@@ -13,7 +13,7 @@ class VWO
       HTTP_PROTOCOL = 'http://'
       HTTPS_PROTOCOL = 'https://'
       URL_NAMESPACE = '6ba7b811-9dad-11d1-80b4-00c04fd430c8'
-      SDK_VERSION = '1.0.0'
+      SDK_VERSION = '0.0.1'
 
       module ENDPOINTS
         BASE_URL = 'dev.visualwebsiteoptimizer.com'
